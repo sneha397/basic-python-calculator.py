@@ -9,12 +9,12 @@ This is a basic calculator program written in Python. It allows the user to perf
 1. Make sure Python is installed on your system.
 2. Run the file using the command:
 python calculator.py
-example output/input💻
+##example output/input💻
 Enter first number: 10
 Enter operation (+, -, *, /, **): *
 Enter second number: 5
 Result: 50
-author🌟
+##author🌟
 Sneha K
 🎓 Final Year Civil Engineering Student
 💻 Aspiring Python & Front-end Developer
